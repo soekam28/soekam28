@@ -1,17 +1,12 @@
-## Hello Guys 👋
-![Mobile Legends](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5rczk3M2ZhczN5ZDBjcjA0M3Vvamx1NWg4djFwdG0wb3UwbTN3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJ5pOfwxH6EwVujVZo/giphy.gif)
+# Hello Guys 👋
+![header](img/github-header-image.png)
 
-<!--
-**soekam28/soekam28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I just tried GitHub 😁
 
-Here are some ideas to get you started:
+##### Skill
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Sosmed
+![https://whatsapp.com](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
