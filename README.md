@@ -17,4 +17,4 @@
 ![//](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 #### My github Stats
-![Soekam28 GitHub stats](https://github-readme-stats.vercel.app/api?username=soekam28)
+![soekam28's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soekam28)
