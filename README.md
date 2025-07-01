@@ -1,4 +1,5 @@
 # Hello Guys 👋
+<!--leviarista-->
 ![header](img/github-header-image.png)
 
 - I just tried GitHub 😁
@@ -17,4 +18,14 @@
 ![//](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 #### My github Stats
-![soekam28's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soekam28)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=soekam28&show_icons=true&theme=shadow_green"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=soekam28&show_icons=true&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=soekam28&show_icons=true" />
+</picture>
